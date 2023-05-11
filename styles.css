@@ -52,7 +52,7 @@ header nav.center.desktop {
 section {
     height: 100vh;
     background-size: cover;
-    background-position: center cover;
+    background-position: center center;
 }
 
 section .content {
@@ -152,4 +152,3 @@ aside button.close {
 .backdrop.active{
     display: block;
 }
-
